@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mikaeil 👨‍💻</h1>
+<h1 align="center">Hi, I'm Michael 👨‍💻</h1>
 <p align="center">
   💥 Blockchain Security Researcher • Smart Contract Auditor • Ethical Hacker <br>
   🔐 Focused on Web3 Security & High-Impact Bug Bounties <br>
@@ -10,7 +10,7 @@
 
 - 🧠 Started programming at age 11 — obsessed with code ever since.
 - 💻 Specialized in **Smart Contract Security** and **Blockchain Infrastructure**.
-- ⚡ Active in bug bounty platforms like [Immunefi](https://immunefi.com/) & [Code4rena](https://code4rena.com/)
+- ⚡ Active in bug bounty platforms like [Immunefi](https://immunefi.com/) & [Code4rena](https://code4rena.com/) & [Hackerone](https://www.hackerone.com/)
 
 ---
 
@@ -43,9 +43,9 @@
 
 ### 📫 Connect With Me
 
-[![Twitter](https://img.shields.io/badge/-@YOUR_HANDLE-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/YOUR_HANDLE)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_USERNAME)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/YOUR_HANDLE)
+[![Twitter](https://img.shields.io/badge/-@YOUR_HANDLE-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/MichaelYonesi)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/michael-younsi-855899291/)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/Thew_ConFigeR)
 
 ---
 
